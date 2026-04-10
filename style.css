@@ -28,13 +28,17 @@ img{
     top: 0;
     left: 70%;
 }
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
 .link{
     text-decoration: none;
-    color:rgb(138, 192, 255);
+    color:rgb(62, 194, 255);
 }
 .link:hover{
     text-decoration: none;
-    color:rgb(99, 255, 107);
+    color:rgb(68, 255, 77);
 }
 .button-link{
     text-decoration: none;
